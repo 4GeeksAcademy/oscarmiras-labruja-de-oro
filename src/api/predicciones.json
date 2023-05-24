@@ -1,0 +1,35 @@
+{
+    "aries": {
+      "predicciones": [
+        "Hoy es un buen día para tomar decisiones importantes en tu vida. Confía en tus instintos y sigue adelante.",
+        "Podrías enfrentar algunos desafíos en el trabajo, pero con determinación y perseverancia los superarás.",
+        "En el ámbito amoroso, es posible que tengas que resolver algunos malentendidos. La comunicación abierta será clave.",
+        "Tu salud se encuentra en un buen momento. Aprovecha para hacer ejercicio y cuidar tu bienestar."
+      ]
+    },
+    "tauro": {
+      "predicciones": [
+        "Hoy es un día perfecto para enfocarte en tus metas profesionales. Tu esfuerzo y dedicación darán frutos.",
+        "En el ámbito financiero, es importante que seas prudente y evites gastos innecesarios.",
+        "En el amor, podrías recibir muestras de afecto inesperadas. Disfruta de estos momentos de conexión.",
+        "Recuerda cuidar tu salud y buscar momentos de relajación para evitar el estrés."
+      ]
+    },
+    "geminis": {
+      "predicciones": [
+        "Hoy es un buen día para socializar y hacer nuevos contactos. Podrías conocer a alguien que te brinde nuevas oportunidades.",
+        "En el trabajo, es posible que te enfrentes a desafíos intelectuales. Confía en tus habilidades y encontrarás soluciones.",
+        "En el ámbito sentimental, es importante que escuches a tu intuición y sigas tu corazón.",
+        "Cuida tu energía y evita el agotamiento. Busca momentos de descanso y equilibrio."
+      ]
+    },
+    "cancer": {
+      "predicciones": [
+        "Hoy es un buen día para enfocarte en tu hogar y tu vida familiar. Dedica tiempo a fortalecer tus lazos afectivos.",
+        "En el trabajo, podrías enfrentar desafíos, pero con tu determinación y perseverancia superarás cualquier obstáculo.",
+        "En el amor, es posible que surjan momentos románticos y llenos de complicidad. Aprovecha para expresar tus sentimientos.",
+        "Tu salud se encuentra en un buen momento. Mantén una alimentación equilibrada y realiza actividades que te hagan sentir bien."
+      ]
+    }
+    // Agrega predicciones para los demás signos aquí...
+  }
